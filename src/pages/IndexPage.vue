@@ -5,6 +5,9 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     >
+    <div>
+      This is the thing.
+    </div>
   </q-page>
 </template>
 

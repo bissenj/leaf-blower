@@ -2,6 +2,23 @@
 
 A Quasar Project
 
+Simple project to learn vue and quasar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# =============================================================================================
+
 ## Install the dependencies
 ```bash
 yarn
